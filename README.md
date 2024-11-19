@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @Ahsan-Saad. Currently a B.Sc. student in North South University, Bangladesh, studying Computer Science and Engineering.
-- 👀 I’m very much interested in building softwares. I enjoy building both web apps and mobile apps, but always lean towards mobile apps a little more. 
-      I'm fluent in both front-end and back-end works, but prefer to do front-end programming over back-end programming.
-- 🌱 I’m currently into Artificial Inteligence.Recently completed courses related to Machine Learning. 
-      Now diving into the Deep learing world by gitting know about Pattern Recognition and Natural Language Processing.
-- 📫 You can contact me through following socials:
-      g-mail: ahsansaad1210@gmail.com
-      facebook: Ahsan Saad
-      instagram: ahsan_saad._...
+### Hi there, I'm Ahsan! 👋  
 
-<!---
-Ahsan-Saad/Ahsan-Saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **CSE Graduate** from North South University, Bangladesh, with a passion for advancing the field of **Artificial Intelligence**. I thrive at the intersection of research, development, and project delivery.  
+
+💼 Currently working as a **Project Manager** with 2 years of experience managing AI projects. My journey involves bringing innovative solutions to life, ensuring they deliver real-world impact.  
+
+📚 **Research Enthusiast** in AI with a publication in **Computer Vision**, and several research projects in **Large Language Model (LLM)**. I published an IEEE conference paper on detecting Pulmonary Fibrosis using deep learning techniques.  
+
+🌟 **My interests include:**  
+- Exploring cutting-edge AI techniques  
+- Researching deep learning applications in healthcare  
+- Leading and contributing to open-source projects  
+
+🚀 I believe in continuous learning, innovation, and collaboration. Feel free to check out my repositories or connect to discuss research, AI, or exciting project ideas!  
+
+📫 **Let's connect:**  
+- [LinkedIn](#)  
+- [Email](#ahsanuzzaman@northsouth.edu)  
